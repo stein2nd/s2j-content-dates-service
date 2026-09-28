@@ -4,8 +4,14 @@
 
 ## 0.0.1 - 2026-09-29
 
+### Added
+
+* サービス仕様ドラフトを `docs_mod/service_spec.md` に記載 (算出とプラグインの境界、コンテンツタイプ表、未決事項)
+* `docs_mod/specs.md` からサービス仕様ドラフトへの参照を追加
+
 ### Changed
 
+* textlint の許容語に `kis-wordpress` と旧名 `s2j-post-dates-service` / `post-dates-service` を追加
 * npm プロジェクト名を `s2j-content-dates-service` に変更
 * Composer ライブラリ名を `s2j/content-dates-service` に変更
 * 表示名を `S2J Content Dates Service` に変更
