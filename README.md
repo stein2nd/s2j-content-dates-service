@@ -1,2 +1,1 @@
-# s2j-post-dates-service
-s2j-post-dates-service
+# S2J Post Dates Service
