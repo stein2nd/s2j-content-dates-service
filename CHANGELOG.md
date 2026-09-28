@@ -1,6 +1,13 @@
-# S2J Post Dates Service - CHANGELOG
+# S2J Content Dates Service - CHANGELOG
 
 ## unreleased
+
+### Changed
+
+* npm プロジェクト名を `s2j-content-dates-service` に変更
+* Composer ライブラリ名を `s2j/content-dates-service` に変更
+* 表示名を `S2J Content Dates Service` に変更
+* オートロード名前空間を `S2J\ContentDatesService\` に変更
 
 ## 0.0.1 - 2026-09-28
 

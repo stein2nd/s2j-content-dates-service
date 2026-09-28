@@ -1,5 +1,5 @@
 {
-    "name": "s2j/post-dates-service",
+    "name": "s2j/content-dates-service",
     "description": "Calculation and Display Logic for Publication and Update Dates (WP-Independent)",
     "version": "0.0.1",
     "type": "library",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "S2J\\PostDatesService\\": "src/"
+            "S2J\\ContentDatesService\\": "src/"
         }
     },
     "require": {
@@ -29,7 +29,7 @@
         "squizlabs/php_codesniffer": "^4.0"
     },
     "archive": {
-        "name": "s2j-post-dates-service",
+        "name": "s2j-content-dates-service",
         "exclude": [
             "/node_modules",
             "/vendor",

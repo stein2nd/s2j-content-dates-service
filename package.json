@@ -1,5 +1,5 @@
 {
-  "name": "s2j-post-dates-service",
+  "name": "s2j-content-dates-service",
   "version": "0.0.1",
   "description": "Calculation and Display Logic for Publication and Update Dates (WP-Independent)",
   "license": "GPL-3.0-or-later",

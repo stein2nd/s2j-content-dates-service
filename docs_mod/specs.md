@@ -1,1 +1,1 @@
-# S2J Post Dates Service - 仕様書の起点
+# S2J Content Dates Service - 仕様書の起点
