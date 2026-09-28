@@ -10,10 +10,10 @@
             "email": "stein2nd@gmail.com"
         }
     ],
-    "homepage": "https://github.com/stein2nd/s2j-post-dates-service",
+    "homepage": "https://github.com/stein2nd/s2j-content-dates-service",
     "support": {
-        "issues": "https://github.com/stein2nd/s2j-post-dates-service/issues",
-        "source": "https://github.com/stein2nd/s2j-post-dates-service"
+        "issues": "https://github.com/stein2nd/s2j-content-dates-service/issues",
+        "source": "https://github.com/stein2nd/s2j-content-dates-service"
     },
     "autoload": {
         "psr-4": {
