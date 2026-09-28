@@ -6,11 +6,11 @@
   "author": "Koutarou ISHIKAWA <stein2nd@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stein2nd/s2j-post-dates-service.git"
+    "url": "git+https://github.com/stein2nd/s2j-content-dates-service.git"
   },
-  "homepage": "https://github.com/stein2nd/s2j-post-dates-service#readme",
+  "homepage": "https://github.com/stein2nd/s2j-content-dates-service#readme",
   "bugs": {
-    "url": "https://github.com/stein2nd/s2j-post-dates-service/issues"
+    "url": "https://github.com/stein2nd/s2j-content-dates-service/issues"
   },
   "keywords": [],
   "workspaces": [],

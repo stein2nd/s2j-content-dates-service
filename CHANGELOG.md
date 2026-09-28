@@ -2,6 +2,8 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-09-29
+
 ### Changed
 
 * npm プロジェクト名を `s2j-content-dates-service` に変更
