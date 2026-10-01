@@ -2,6 +2,8 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-01
+
 ### Changed
 
 * Composer の homepage と support を改名後のリポジトリ URL に合わせる
