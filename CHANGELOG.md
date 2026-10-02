@@ -2,6 +2,14 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-03
+
+### Changed
+
+* ドキュメント lint の `@s2j/docs-linter` を ^1.0.26に更新
+* 開発用 PHPUnit 関連を更新 (`phpunit/phpunit` v13.4.0、`php-code-coverage` v14.4.0、`sebastian/environment` v9.3.3)
+* VS Code の `npm.enableScriptExplorer` を `json.schemaDownload.enable` に置き換える
+
 ## 0.0.1 - 2026-10-01
 
 ### Changed
