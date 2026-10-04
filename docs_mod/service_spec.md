@@ -67,6 +67,8 @@
 
 ## プラグインの責務 (境界。詳細はプラグイン仕様)
 
+プラグイン仕様の詳細は [S2J Content Dates の docs_mod/specs.md](https://github.com/stein2nd/s2j-content-dates/blob/main/docs_mod/specs.md) です。
+
 指定 UI は、管理画面の **標準テーブル** ( `WP_List_Table` 相当) とします。1行 = 1コンテンツタイプです。見出しは「カスタム投稿タイプ」ではなく **コンテンツタイプ** です。
 
 | 表示名 | タイプ | 単体で更新日を出す | Archive に更新日の絞り込み / ソートを足す |
@@ -109,7 +111,7 @@
 | 名称 | 種別 | 役割 |
 | --- | --- | --- |
 | **本ライブラリ** | Composer | 日付レコードの正規化、表示可否、ソート / フィルター用キー、親への更新日集約 |
-| **S2J Content Dates** (仮) | WP プラグイン | 管理画面、オプション、メタ、Archive の `WP_Query`、ブロック / テンプレート、メディア UI |
+| [S2J Content Dates](https://github.com/stein2nd/s2j-content-dates) | WP プラグイン | 管理画面、オプション、Archive の `WP_Query`、ブロック |
 | [kis-wordpress](https://github.com/stein2nd/kis-wordpress.git) | モノレポ | サイト専用プラグイン群。日付機能は kis-core に抱え込まない |
 | [kis2026_base](https://github.com/stein2nd/kis2026_base.git) | テーマ | 見た目。日付の正はプラグイン + 本ライブラリ |
 
@@ -138,3 +140,4 @@
 | 2026-10-01 | 新規コンテンツタイプのデフォルトは off。未保存 (`null`) は off として読む、と決定 |
 | 2026-10-01 | 個別コンテンツごとの指定は持たない、と決定 |
 | 2026-10-01 | 表示の整形は WordPress「設定 > 一般」の日付形式・時刻形式に従う、と決定 |
+| 2026-10-04 | 呼び出し側プラグイン [s2j-content-dates](https://github.com/stein2nd/s2j-content-dates) の仕様ドラフトを当該 repo に書いた |

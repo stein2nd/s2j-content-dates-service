@@ -2,6 +2,14 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-04
+
+### Changed
+
+* 呼び出し側を S2J Content Dates に確定し、仕様詳細は当該リポジトリの `docs_mod/specs.md` に委ねる
+* プラグインの役割からメタ、テンプレート、メディア UI を外す
+* ドキュメント lint の `@s2j/docs-linter` を ^1.0.27に更新
+
 ## 0.0.1 - 2026-10-03
 
 ### Changed
