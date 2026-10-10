@@ -120,7 +120,7 @@
 1. 本 repo でスケルトンと純関数の初版 (PHPUnit で WP なし)。
 2. S2J Content Dates プラグインが Composer で require し、テーブル UI と出力をつなぐ。
 3. KIS サイトでは当該プラグインを有効化し、kis-case 等と共用する。
-4. 旧案の `packages/post-dates-service/` 仮置きは、本 repo へ寄せる (モノレポ仕様の更新は kis-wordpress 側)。
+4. 旧案の `packages/post-dates-service/` 仮置きは、本 repo に寄せる (モノレポ仕様の更新は kis-wordpress 側)。
 
 ## 決定
 
