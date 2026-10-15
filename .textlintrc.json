@@ -12,10 +12,11 @@
                 "/スクロール/",
                 "/ロールバック/",
                 "/@wordpress\\/[a-zA-Z0-9@._/-]*/i",
+                "/[.。]\\s*「/u",
+                "/#status-[a-z0-9-]+/",
                 "/kis-wordpress/",
                 "/s2j-post-dates-service/",
-                "/post-dates-service/",
-                "/[.。]\\s*「/u"
+                "/post-dates-service/"
             ]
         }
     },

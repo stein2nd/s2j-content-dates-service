@@ -2,6 +2,14 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-15
+
+### Changed
+
+* ドキュメント lint の `@s2j/docs-linter` を ^1.0.29に更新
+* 開発用 PHPStan / PHPUnit 関連を更新 (`phpstan/phpstan` v2.3.1、`phpunit/phpunit` v13.4.2、`php-code-coverage` v14.4.1)
+* textlint の許容語に `#status-` で始まるアンカーを追加
+
 ## 0.0.1 - 2026-10-10
 
 ### Changed
