@@ -7,7 +7,7 @@
 ### Changed
 
 * 対応 PHP の下限を `>=8.3` に引き上げ (WordPress 必須要件の推奨に合わせる)
-* サービス仕様に実行環境 PHP 8.3以上を明記
+* サービス仕様に実行環境 PHP v8.3以上を明記
 * `phpcs.xml.dist` を追加し、PSR-12の解析対象 PHP を v8.3に合わせる
 * npm に Composer 経由の PHP lint / test 用スクリプトを追加
 * ドキュメント lint の `@s2j/docs-linter` を ^1.0.30に更新
