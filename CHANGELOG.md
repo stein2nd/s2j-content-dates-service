@@ -2,14 +2,12 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-24
+
 ### Changed
 
 * Composer の `version` フィールドを削除 (`composer validate --strict` の警告を解消)
 * `composer.lock` を `composer.json` の変更に合わせて更新
-
-## 0.0.1 - 2026-10-24
-
-### Changed
 
 * 対応 PHP の下限を `>=8.3` に引き上げ (WordPress 必須要件の推奨に合わせる)
 * サービス仕様に実行環境 PHP v8.3以上を明記
