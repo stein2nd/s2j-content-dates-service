@@ -2,6 +2,11 @@
 
 ## unreleased
 
+### Changed
+
+* Composer の `version` フィールドを削除 (`composer validate --strict` の警告を解消)
+* `composer.lock` を `composer.json` の変更に合わせて更新
+
 ## 0.0.1 - 2026-10-24
 
 ### Changed
