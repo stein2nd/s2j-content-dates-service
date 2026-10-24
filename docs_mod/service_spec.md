@@ -14,6 +14,8 @@
 
 本ライブラリは **WordPress 非依存** です。WP フック、設定画面、クエリー改変は扱いません。
 
+実行環境の PHP は **8.3以上** とします ([WordPress 必須要件](https://ja.wordpress.org/about/requirements/)の推奨に合わせる)。
+
 ### 位置付けの変遷
 
 仕様検討の最初期では、固定記事、投稿、CPT を対象とし、プロジェクト名も S2J Post Dates Service (`s2j/post-dates-service`) でした。
