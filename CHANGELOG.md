@@ -2,6 +2,13 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-29
+
+### Changed
+
+* ドキュメント lint の `@s2j/docs-linter` を ^1.0.31に更新
+* 開発用 PHPStan / PHPUnit 関連を更新 (`phpstan/phpstan` v2.3.4、`phpunit/phpunit` v13.4.5)
+
 ## 0.0.1 - 2026-10-24
 
 ### Changed
