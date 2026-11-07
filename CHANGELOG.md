@@ -2,6 +2,13 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-11-07
+
+### Changed
+
+* GitHub Actions の `docs-lint.yml` でランナーを `ubuntu-24.04` に固定
+* `lint-docs` の Node を v24に、`actions/checkout` / `actions/setup-node` を v5に更新
+
 ## 0.0.1 - 2026-11-05
 
 ### Changed
